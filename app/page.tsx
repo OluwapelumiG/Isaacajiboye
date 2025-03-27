@@ -38,7 +38,7 @@ export default function Home() {
       <section className="mb-12">
         <h2 className="text-2xl font-bold mb-4 text-gray-800">About Me</h2>
         <p className="text-gray-700 leading-relaxed">
-          I'm a passionate Frontend Developer with a strong foundation in Computer Science. 
+          I&apos;m a passionate Frontend Developer with a strong foundation in Computer Science. 
           I specialize in building responsive, user-friendly web applications using modern JavaScript frameworks and libraries.
           With a keen eye for detail and a love for clean code, I strive to create exceptional user experiences.
         </p>
